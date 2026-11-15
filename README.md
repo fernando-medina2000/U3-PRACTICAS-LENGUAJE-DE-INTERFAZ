@@ -17,11 +17,11 @@
 
 | No. | Práctica / Nombre del programa | Enlace al Código |
 |:---:|:-----------------------|:----------------:|
-| 1 | Validar cadena vacía | [Ver código](1.asm) |
-| 2 | Paso de parámetros por la pila | [Ver código](2.asm) |
-| 3 | Direcciones de retorno en la pila | [Ver código](3.asm) |
-| 4 | Llamada a procedimientos con CALL y RET | [Ver código](4.asm) |
-| 5 | Utilización de la macro y macro con multiplicación | [Ver código](macro.asm) |
+| 1 | 1.asm | [Ver código](1.asm) |
+| 2 | 2.asm | [Ver código](2.asm) |
+| 3 | 3.asm | [Ver código](3.asm) |
+| 4 | 4.asm | [Ver código](4.asm) |
+| 5 | 5.asm | [Ver código](macro.asm) |
 
 ---
 
